@@ -1,4 +1,4 @@
-#Jogo Pong em Python  <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<h1>Jogo Pong em Python  <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></h1>
 
 
 ---
@@ -8,12 +8,12 @@
 
 
 
-##gameplay
+<h2>gameplay</h2>
 
 ![Gameplay](data/Pong.gif)
 
 
-###tecnologias usadas
+<h3>tecnologias usadas</h3>
 
 * python3 
 * pygame
